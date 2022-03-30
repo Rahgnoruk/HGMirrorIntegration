@@ -1,0 +1,26 @@
+{
+    "name": "com.hypergnosys.mirror-integration",
+    "version": "1.0.0",
+    "displayName": "HGMirrorIntegration",
+    "description": "Solutions with Mirror Networking to host online matches with various options for server providers",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGMirrorIntegration",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGMirrorIntegration",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGMirrorIntegration",
+    "keywords": [
+      "HyperGnosys",
+      "Mirror Networking"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    },
+    "gitDependencies": {
+      "com.hypergnosys.core": "https://github.com/Rahgnoruk/HGCodeBaseCore",
+      "com.hypergnosys.string-utilities": "https://github.com/Rahgnoruk/HGStringUtilities"
+    }
+  }
